@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  PracrticWork.vcxproj -> C:\Users\vovaw\Desktop\PracrticWork\Debug\PracrticWork.exe
+  PracrticWork.vcxproj -> C:\Users\vovaw\Desktop\PracrticWork\Debug\PracrticWork.pdb (Partial PDB)
